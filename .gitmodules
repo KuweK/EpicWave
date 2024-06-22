@@ -1,0 +1,3 @@
+[submodule "EpicWave"]
+	path = client
+	url = https://github.com/KuweK/EpicWave.git
